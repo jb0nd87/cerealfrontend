@@ -58,6 +58,9 @@ function App() {
 
 	return (
 		<div className='App'>
+      <p>
+        <img src='https://media.giphy.com/media/ssTiPstEcfXDq/giphy.gif'/>
+      </p>
 			<h1>CEREAL SHOPPING LIST</h1>
 			<hr />
 			<Link to='/create'>
